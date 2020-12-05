@@ -1,0 +1,14 @@
+form, .shapka {
+	position:fixed;
+	z-index:9999999999;
+}
+form {
+	width: 25%;
+}
+.shapka {
+	width:100%;
+}
+.sms{
+	word-break: break-all;
+	white-space: normal
+}
